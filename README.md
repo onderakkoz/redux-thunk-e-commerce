@@ -17,4 +17,3 @@ JSON Server
 
 ![](./src/assets/thunksepeti.gif)
 
-Bu projenın amacı react redux-thunk yapısını kavrama ve kullanımına yönelik geliştirmeler yapmaktır.
